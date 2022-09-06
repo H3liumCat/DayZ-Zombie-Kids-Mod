@@ -23,5 +23,5 @@
             <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid3"/>
         </children>
     </event>
-<!-- to this Line to your events.xml -->
+<!-- to this Line into your events.xml -->
 </events>
