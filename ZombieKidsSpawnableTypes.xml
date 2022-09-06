@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
+<!-- Copy from this Line to -->
 	<type name="ZmbM_kid">
 		<cargo preset="InfectedKids" />
 		<cargo chance="0.50">
@@ -36,4 +37,5 @@
 			<item name="Armband_BabyDeer" chance="1.0" />
 		</cargo>
 	</type>
+<!-- this Line into your cfgspawnabletypes.xml -->
 </spawnabletypes>
