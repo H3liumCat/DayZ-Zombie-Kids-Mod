@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="ZmbM_kid">
+		<cargo preset="InfectedKids" />
+		<cargo chance="0.50">
+			<item name="Armband_BabyDeer" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbM_kid2">
+		<cargo preset="InfectedKids" />
+		<cargo chance="0.50">
+			<item name="Bear_Dark" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbM_kid3">
+		<cargo preset="InfectedKids" />
+		<cargo chance="0.50">
+			<item name="Bear_Beige" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbF_kid">
+		<cargo preset="InfectedKids" />
+		<cargo chance="0.50">
+			<item name="Bear_White" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbF_kid2">
+		<cargo preset="InfectedKids" />
+		<cargo chance="0.50">
+			<item name="Bear_Pink" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbF_kid3">
+		<cargo preset="InfectedKids" />
+		<cargo chance="0.50">
+			<item name="Armband_BabyDeer" chance="1.0" />
+		</cargo>
+	</type>
+</spawnabletypes>

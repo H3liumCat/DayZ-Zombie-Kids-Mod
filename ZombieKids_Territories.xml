@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="4290954079">
+<!-- Electro School -->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="3" dmax="5" x="10210.1" z="2569.18" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="3" dmax="5" x="10221.9" z="2588.39" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="10" x="10238.9" z="2590.08" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="8" x="10229.1" z="2589.53" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="10236.7" z="2557.88" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="3" dmax="5" x="10228.9" z="2588.64" r="30"/>
+<!-- Berezino School -->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="3" dmax="5" x="12175.4" z="9737.38" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="3" dmax="5" x="12172.4" y="15.3114" z="9773.25" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="10" x="12153.7" z="9764.92" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="8" x="12146" z="9748.43" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="12172.2" y="15.3114" z="9774.14" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="12225.7" z="9741.63" r="60"/>
+<!-- Camp Grounds by Berezino -->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="11464.9" z="10639.6" r="100"/>
+<!--Vysotovo School-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="5663.90" z="2587.78" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="5730.73" z="2581.70" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="5714.45" z="2531.87" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="5687.23" z="2565.17" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="5687.23" z="2570.28" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="5701.33" z="2563.71" r="30"/>
+<!--Metalurg-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="1077.32" z="6656.03" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="1066.63" z="6627.35" r="30"/>
+<!--Proud Cernarus-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="3193.06" z="6103.08" r="30"/>
+<!--Stroytel-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="7070.66" z="4290.37" r="30"/>
+<!--Kometa-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="10338.69" z="3474.20" r="30"/>
+<!--Nadezhda_Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="7227.91" z="7007.48" r="30"/>
+<!--Youth Pioneer-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="11148.29" z="7046.86" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="11156.31" z="7050.02" r="30"/>
+<!--Romashka-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8097.54" z="10944.48" r="30"/>
+<!--Druzhba-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="11402.27" z="10650.63" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="11586.51" z="10643.58" r="30"/>
+<!--Shkolnik-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="14830.72" z="14571.35" r="30"/>
+<!--Severograd School-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8658.50" z="12800.94" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8644.16" z="12831.07" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8628.36" z="12782.95" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8667.01" z="12770.55" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8583.40" z="12777.36" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8546.94" z="12736.28" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8685.48" z="12779.55" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8684.75" z="12819.41" r="30"/>
+<!--Arsenovo-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8486.18" z="13945.97" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8464.79" z="13885.69" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="8450.21" z="13969.30" r="30"/>
+<!--Pobeda-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="3638.33" z="14885.13" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="3690.83" z="14757.77" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="3661.17" z="14864.23" r="30"/>
+<!--Sinystok-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="1179.89" z="11468.02" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="1190.10" z="11427.19" r="30"/>
+<!--Biathlon-Camp-->
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="574.46" z="11136.01" r="30"/>
+		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="595.36" z="11164.20" r="30"/>
+	</territory>
+</territory-type>
