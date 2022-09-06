@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
+<!-- Copy from this Line -->
 	<territory color="4290954079">
 <!-- Electro School -->
 		<zone name="InfectedKids" smin="0" smax="0" dmin="3" dmax="5" x="10210.1" z="2569.18" r="30"/>
@@ -69,4 +70,5 @@
 		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="574.46" z="11136.01" r="30"/>
 		<zone name="InfectedKids" smin="0" smax="0" dmin="8" dmax="12" x="595.36" z="11164.20" r="30"/>
 	</territory>
+<!-- to this Line into your zombie_territories.xml -->
 </territory-type>
