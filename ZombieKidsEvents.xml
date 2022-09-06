@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copy from this Line -->
 <events>
     <event name="InfectedKids">
         <nominal>50</nominal>
@@ -21,5 +22,6 @@
             <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid2"/>
             <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid3"/>
         </children>
-    </event>						
+    </event>
+<!-- to this Line to your events.xml -->
 </events>
